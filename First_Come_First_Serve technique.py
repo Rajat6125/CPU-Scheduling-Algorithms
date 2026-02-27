@@ -30,5 +30,3 @@ def fcfs_cpu_scheduling(processes):
     
 processes={"P1":[3,5],"P2":[5,2],"P3":[6,4],"P4":[7,3],"P5":[9,1]}
 fcfs_cpu_scheduling(processes)
-
-print("hello")
